@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Ignore IDE files
+.idea/
+
+# Ignore system files
+.DS_Store
