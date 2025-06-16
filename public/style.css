@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background: #f9f9f9; }
+#app { width: 600px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 4px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+#note-form { display: flex; margin-bottom: 20px; }
+#note-input { flex: 1; padding: 8px; }
+button { padding: 8px 16px; }
+ul { list-style-type: none; padding: 0; }
+li { padding: 8px 0; border-bottom: 1px solid #eee; }

@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore vendor dependencies (if composer is used)
+vendor/
+
+# Ignore IDE directories
+.idea/
+.vscode/
